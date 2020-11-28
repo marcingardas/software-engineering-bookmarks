@@ -10,7 +10,7 @@ A collection of links to software engineering resoures grouped by topic.
 
 - **[Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md)**: A longer list of bookmarks created by the community.
 
-- **[Contemporary Front-end Architectures](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md)**: A history of frontend design patterns. ⭐
+- **[Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)**: A history of frontend design patterns. ⭐
 
 - **[dependency-cruiser](https://github.com/sverweij/dependency-cruiser)**: A cool package for validating and visualising dependencies.
 
