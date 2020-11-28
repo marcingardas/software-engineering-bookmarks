@@ -20,6 +20,8 @@ A collection of links to software engineering resoures grouped by topic.
 
 - **[MVVM Architecture in React](https://medium.cobeisfresh.com/level-up-your-react-architecture-with-mvvm-a471979e3f21)**: A description of MVVM implementation using React.
 
+- **[An event-driven MVVM alternative to the Flux front-end architecture](https://medium.com/@h_liyan/an-event-driven-mvvm-alternative-to-the-flux-front-end-architecture-b7a8fa8c9b58)**: An approach to separate view and domain data using MVVM pattern complemented by event-driven layer.
+
 ### Reading List
 
 - **[How to create a scalable and maintainable front-end architecture](https://dev.to/vycke/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47)**
