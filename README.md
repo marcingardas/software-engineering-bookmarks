@@ -22,7 +22,9 @@ A collection of links to software engineering resoures grouped by topic.
 
 ### Reading List
 
-- **[Structure and Interpretation, 1986](https://www.youtube.com/watch?v=a2Qt9uxhNSM&feature=emb_title)**
+- **[How to create a scalable and maintainable front-end architecture](https://dev.to/vycke/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47)**
+
+- **[Structure and Interpretation, 1986](https://www.youtube.com/watch?v=a2Qt9uxhNSM&feature=emb_title)** (video)
 
 - **[Unidirectional User Interface Architectures](https://staltz.com/unidirectional-user-interface-architectures.html)**
 
