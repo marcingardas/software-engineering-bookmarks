@@ -24,6 +24,8 @@ A collection of links to software engineering resoures grouped by topic.
 
 ### Reading List
 
+- **[Some Problems with React/Redux](https://staltz.com/some-problems-with-react-redux.html)**
+
 - **[How to create a scalable and maintainable front-end architecture](https://dev.to/vycke/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47)**
 
 - **[Understanding MVC And MVP](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)**
