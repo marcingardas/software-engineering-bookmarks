@@ -12,6 +12,14 @@ A collection of links to software engineering resoures grouped by topic.
 
 - **[Contemporary Front-end Architectures](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md)**: A history of frontend design patterns. ⭐
 
+- **[dependency-cruiser](https://github.com/sverweij/dependency-cruiser)**: A cool package for validating and visualising dependencies.
+
+- **[Martin Fowler - Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)**: A detailed description of approaches to micro frontends.
+
+- **[A Software Architect’s Approach Towards Micro Frontends](https://www.angulararchitects.io/aktuelles/a-software-architects-approach-towards/)**: A detailed comparison of different approaches to micro frontends.
+
+- **[MVVM Architecture in React](https://medium.cobeisfresh.com/level-up-your-react-architecture-with-mvvm-a471979e3f21)**: A description of MVVM implementation using React.
+
 ### Reading List
 
 - **[Structure and Interpretation, 1986](https://www.youtube.com/watch?v=a2Qt9uxhNSM&feature=emb_title)**
