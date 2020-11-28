@@ -24,6 +24,8 @@ A collection of links to software engineering resoures grouped by topic.
 
 ### Reading List
 
+- **[purescript](https://www.purescript.org/)**
+
 - **[Some Problems with React/Redux](https://staltz.com/some-problems-with-react-redux.html)**
 
 - **[How to create a scalable and maintainable front-end architecture](https://dev.to/vycke/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47)**
